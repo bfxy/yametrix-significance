@@ -44,7 +44,7 @@ templates_path = ['ytemplates']
 source_suffix = '.rst'
 
 # The encoding of source files.
-#source_encoding = 'utf-8-sig'
+source_encoding = 'utf-8-sig'
 
 # The master toctree document.
 master_doc = 'index'
@@ -227,7 +227,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'sphinx.tex', u'Статистически достоверные данные',
-   u'u', 'howto'),
+   u'u', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
