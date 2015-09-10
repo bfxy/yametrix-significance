@@ -7,7 +7,7 @@
 конверсией. Выберите
 
 
-.. figure:: https://fotki.yandex.ru/next/users/metrika-blog/album/476865/view/1690672 
+.. figure:: https://img-fotki.yandex.ru/get/6822/289514431.0/0_19cc30_714f8332_orig 
    :alt: 
 
 Если 100 пользователей пришли на первую страницу, и 10 из них достигли
