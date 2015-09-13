@@ -50,7 +50,7 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Статистически достоверные данные'
+project = u' Статистически недостоверные данные'
 copyright = u'2015, Vitali Lobanov'
 author = u'Vittorio Lobanescu'
 
@@ -226,7 +226,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'sphinx.tex', u'Статистически достоверные данные',
+  (master_doc, 'sphinx.tex', u' Статистически недостоверные данные',
    u'u', 'manual'),
 ]
 
@@ -256,7 +256,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx', u'Статистически достоверные данные',
+    (master_doc, 'sphinx', u' Статистически недостоверные данные',
      [author], 1)
 ]
 
@@ -270,8 +270,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'sphinx', u'Статистически достоверные данные',
-   author, 'sphinx', 'One line description of project.',
+  (master_doc, 'sphinx', u' Статистически недостоверные данные',
+   author, 'sphinx', 'Отрывок из справки пользователя для сервиса Яндекс Метрика',
    'Miscellaneous'),
 ]
 
